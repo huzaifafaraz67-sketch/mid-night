@@ -1,0 +1,6 @@
+{
+  "name": "The Midnight Curfew",
+  "description": "A high-fidelity first-person 3D psychological horror game set in Apartment 4B. Survive until 6:00 AM by following the five midnight rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
